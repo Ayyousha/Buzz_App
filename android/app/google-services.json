@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938387714947",
+    "project_id": "buzz-news-9d78f",
+    "storage_bucket": "buzz-news-9d78f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938387714947:android:7db33f9a4e72ef94833cb6",
+        "android_client_info": {
+          "package_name": "com.example.buzz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938387714947-p4mk4pucoj61ao13pqjvmqipaebqg078.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buzz_app",
+            "certificate_hash": "444abf0e855cc87b94ca82bbea276c9d7244b8f6"
+          }
+        },
+        {
+          "client_id": "938387714947-tk7duivm4obteols84tc4tp4ukqccvqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHbePABGkHLpeadPWAA9V6-IzJrTL0cZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938387714947-tk7duivm4obteols84tc4tp4ukqccvqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
